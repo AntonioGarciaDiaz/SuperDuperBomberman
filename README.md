@@ -1,5 +1,5 @@
 # SuperDuperBomberman
-This project was developped together for the Ecole polytechnique de Bruxelles' Object Oriented Programming course (INFO-H200) with Gaetano RIPOLLINO and Robin CHARLIER. The aim of the project was to mimic the gameplay of the BOMBERMAN™ game series by Hudson Soft (now part of Konami Corp.) while showcasing some of the main characteristics of Object Oriented Programming.
+I developed this project for the Ecole polytechnique de Bruxelles' Object Oriented Programming course (INFO-H200) together with Gaetano RIPOLLINO and Robin CHARLIER, during the spring months of 2015. The aim of the project was to mimic the gameplay of the BOMBERMAN™ game series by Hudson Soft (now part of Konami Corp.) while showcasing some of the main characteristics of Object Oriented Programming.
 
 The game is designed to be played on a QWERTY keyboard:
 - Player 1 (White Bomberman): WASD for moving, Q for placing bombs.
